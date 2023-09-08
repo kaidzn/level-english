@@ -72,11 +72,15 @@
                 text-align: center;
             }
         }
+        .sm-text{
+                width: 100%;
+            }
         .right{
             align-items: center;
             .second-text{
                 bottom: 0px;
             }
+            
 
         }
     }
@@ -254,6 +258,9 @@
             p{
                 text-align: start;
             }
+        }
+        .sm-text{
+            width: 50%;
         }
         .right{
             align-items: end;
